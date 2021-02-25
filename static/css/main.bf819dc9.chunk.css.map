@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/app.css"],"names":[],"mappings":"AAAA,IACI,cAAe,CACf,iBACJ,CAIA,aACI,cACJ,CACA,KACI,wBACJ","file":"main.bf819dc9.chunk.css","sourcesContent":["div {\r\n    font-size: 25px;\r\n    text-align: center;\r\n}\r\nbutton {\r\n    font-size: 15px;\r\n}\r\ninput {\r\n    font-size: 15px;\r\n}\r\nbody {\r\n    background-color:blanchedalmond;\r\n}"]}
